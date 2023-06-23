@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TsDdx+0JslAZSZMdSVxDSLEKOzlE9yDyqLAFRVwybcHLhsA7m5oub8q1uVYKyBeAJGLdSaKIcmNq0WFoxVR2Pg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Rider\\Test\\Directum\\Directum\\Directum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
